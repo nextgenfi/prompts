@@ -3,7 +3,7 @@
 This repository contains prompts used for creating account interfaces and other UI components.
 
 ===============================================================================
-PROJECT: BANK ACCOUNT OPENING SYSTEM
+PROJECT: BANK ACCOUNT OPENING SYSTEM INTERFACE
 ===============================================================================
 
 ## PROMPT 1: Initial Bank Account System Request
