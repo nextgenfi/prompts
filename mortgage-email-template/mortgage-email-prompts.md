@@ -1,0 +1,3 @@
+okay now we need to work on a few things like refinancing of mortgage email we need to change the content especially this thing in the yellow box Your mortgage is maturing in 28 days Maturity Date: January 11, 2026 Current Balance: $248,000.00 Current Interest Rate: 4.5% like make it look better change whatever you want but make it look more professional also if you can change the template and make it look a little more professional in bank sense would be great
+
+
